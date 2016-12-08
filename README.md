@@ -1,5 +1,5 @@
 # Azure-Function-Snippets
-Ce projet a été réalisé dans le cadre du article de blog concerant Azure Functions : http://blog.dhollander.info/p/962533b1-5cad-473d-b0ef-20b8060318ca/
+Ce projet a été réalisé dans le cadre du article de blog concerant Azure Functions : http://blog.dhollander.info/azure-functions/
 
 Le code source est Libre et Open Source (licence MIT).
 
